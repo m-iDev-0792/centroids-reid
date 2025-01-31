@@ -8,3 +8,5 @@ torch==1.10.0+cu113
 torchvision==0.11.1+cu113
 tqdm
 yacs
+numpy==1.26.4
+setuptools==58.2.0
